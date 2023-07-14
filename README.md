@@ -1,1 +1,2 @@
+#Grocery Shop Management System
 Grocery Shop Management System aims to help its users to select groceries from the shop in a smooth and efficient manner and also generates an accurate bill to avoid mishappenings in money calculations. This project is made using python and mysql. The user needs to first login and then can choose the items required from the menu provided and can also select the quantity of the item. After which a bill is generated along with a bar graph which helps to tally the money spent on each item. 
